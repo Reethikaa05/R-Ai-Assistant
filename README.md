@@ -26,7 +26,7 @@ Table of Contents
 
 ## 📂 Project Structure
 
-R-JARVIS/
+R-Ai-Assistant/
 │── agent.py                   # Main control file, core Jarvis loop
 │── jarvis_animation.py        # Animation/visual feedback
 │── Jarvis_file_opner.py       # File opener tool (apps, docs, dirs)
@@ -142,6 +142,6 @@ This project is open-source under the MIT License. See LICENSE for details.
 
 Author
 
-Rudra — @rudranarayan992
+Reethika Selvam S
 
 If you build something cool with R‑JARVIS, star the repo and share a demo! ✨
